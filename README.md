@@ -2,13 +2,13 @@
 Classification of Dog breeds using image files provided
 Disaster Response Pipeline-figure 8
 
-Table of Contents
+## Table of Contents
 
-Libraries
-Project overview
-File Descriptions
-Results
-Acknowledgements
+- Libraries
+- Project overview
+- File Descriptions
+- Results
+- Acknowledgements
 
 
 Python 3 is required to run the anlaysis Python libraries that are used/requires are as follows:
