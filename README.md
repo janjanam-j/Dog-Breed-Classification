@@ -35,8 +35,6 @@ ModelCheckpoint from keras.callbacks
 The aim of the project is to classifiy the images into either humans or dogs. If the provided image is a dog, it model should classify it as a dog and provide the relavent breed. If the image is of a human, the model should provide the relavent breed of a dog. If the image passed is neither a dog nor a human face, the model should say the same.
 
 ## File Descriptions
-
-dogImages- provided the data for train, test, and validation datasets of dog images for the model
 dog_app_final- the python notebook illustrated the flow of developing the model and testing it as instructed by the udacity
 
 ## Results:
